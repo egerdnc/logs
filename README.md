@@ -1,5 +1,5 @@
 # logs
-# made by me btw.
+made by me btw.
 Advanced log system for FiveM
 ======================================================
 
