@@ -1,4 +1,5 @@
 # logs
+# made by me btw.
 Advanced log system for FiveM
 ======================================================
 
