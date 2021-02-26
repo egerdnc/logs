@@ -9,4 +9,4 @@ PhP it you can setup your website with that php file it is way more secure and a
 Discord logs, shit...
 
 USAGE:
-exports["logs"]:AddLog(args)
+**exports["logs"]:AddLog(args)**
