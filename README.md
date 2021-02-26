@@ -1,5 +1,4 @@
 # logs
-made by me btw.
 Advanced log system for FiveM
 ======================================================
 
@@ -11,3 +10,5 @@ Discord logs, shit...
 
 USAGE:
 **exports["logs"]:AddLog(args)**
+
+made by me btw.
